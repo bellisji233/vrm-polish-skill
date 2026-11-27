@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.blend1
+
+# 角色、动作和音乐不随仓库提供：用户自己的文件（tools/add-media.py 写入）不进版本历史。卧室道具随仓库提供。
+studio/models/
+studio/music/
+studio/animations/

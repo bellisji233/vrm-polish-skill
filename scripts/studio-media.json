@@ -1,0 +1,285 @@
+{
+ "说明": "导演台开箱版可带的媒体。approved 为 true 的才会被 scripts/publish-studio.sh 复制。动作和音乐不随仓库提供，来源见 studio/MEDIA.zh-CN.md。",
+ "items": [
+  {
+   "path": "animations/pixiv-01-show-body.vrma",
+   "what": "小动作 · 展示全身",
+   "source": "https://booth.pm/ja/items/5512385 · キャラクターアニメーション: ピクシブ株式会社 VRoidプロジェクト",
+   "license": "可商用需署名；禁止以可提取形式再分发",
+   "approved": false
+  },
+  {
+   "path": "animations/pixiv-02-greeting.vrma",
+   "what": "小动作 · 打招呼",
+   "source": "https://booth.pm/ja/items/5512385 · キャラクターアニメーション: ピクシブ株式会社 VRoidプロジェクト",
+   "license": "可商用需署名；禁止以可提取形式再分发",
+   "approved": false
+  },
+  {
+   "path": "animations/pixiv-03-peace.vrma",
+   "what": "小动作 · 比耶",
+   "source": "https://booth.pm/ja/items/5512385 · キャラクターアニメーション: ピクシブ株式会社 VRoidプロジェクト",
+   "license": "可商用需署名；禁止以可提取形式再分发",
+   "approved": false
+  },
+  {
+   "path": "animations/pixiv-04-shoot.vrma",
+   "what": "小动作 · 射击",
+   "source": "https://booth.pm/ja/items/5512385 · キャラクターアニメーション: ピクシブ株式会社 VRoidプロジェクト",
+   "license": "可商用需署名；禁止以可提取形式再分发",
+   "approved": false
+  },
+  {
+   "path": "animations/pixiv-05-spin.vrma",
+   "what": "小动作 · 转圈",
+   "source": "https://booth.pm/ja/items/5512385 · キャラクターアニメーション: ピクシブ株式会社 VRoidプロジェクト",
+   "license": "可商用需署名；禁止以可提取形式再分发",
+   "approved": false
+  },
+  {
+   "path": "animations/pixiv-06-model-pose.vrma",
+   "what": "小动作 · 模特姿势",
+   "source": "https://booth.pm/ja/items/5512385 · キャラクターアニメーション: ピクシブ株式会社 VRoidプロジェクト",
+   "license": "可商用需署名；禁止以可提取形式再分发",
+   "approved": false
+  },
+  {
+   "path": "animations/pixiv-07-squat.vrma",
+   "what": "小动作 · 下蹲",
+   "source": "https://booth.pm/ja/items/5512385 · キャラクターアニメーション: ピクシブ株式会社 VRoidプロジェクト",
+   "license": "可商用需署名；禁止以可提取形式再分发",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-QueenCard.vrma",
+   "what": "舞蹈 · 女王卡",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/QueenCard（短版）",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "music/QueenCard.wav",
+   "what": "舞曲 · 女王卡",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/QueenCard（短版）",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-夜色摇.vrma",
+   "what": "舞蹈 · 夜色摇",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/夜色摇",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "music/夜色摇.wav",
+   "what": "舞曲 · 夜色摇",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/夜色摇",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-小鹿乱撞.vrma",
+   "what": "舞蹈 · 小鹿乱撞",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/小鹿乱撞",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "music/小鹿乱撞.wav",
+   "what": "舞曲 · 小鹿乱撞",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/小鹿乱撞",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-左右猫猫摇.vrma",
+   "what": "舞蹈 · 左右猫猫摇",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/kici_ki_左右猫猫摇",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "music/左右猫猫摇.wav",
+   "what": "舞曲 · 左右猫猫摇",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/kici_ki_左右猫猫摇",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-弹跳扣扣舞.vrma",
+   "what": "舞蹈 · 弹跳扣扣舞",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/弹跳扣扣舞（普通）",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "music/弹跳扣扣舞.wav",
+   "what": "舞曲 · 弹跳扣扣舞",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/弹跳扣扣舞（普通）",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-恋爱条件.vrma",
+   "what": "舞蹈 · 恋爱条件",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/恋爱条件",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "music/恋爱条件.wav",
+   "what": "舞曲 · 恋爱条件",
+   "source": "https://github.com/Carlutic/motions8/tree/main/tracks/恋爱条件",
+   "license": "仓库说明：仅限个人使用，禁止再分发和商用",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-Power舞.vrma",
+   "what": "舞蹈 · Power舞 · 錠剤 · 9秒版",
+   "source": "https://bowlroll.net/file/348532",
+   "license": "配布页和 readme 未写条款",
+   "approved": false
+  },
+  {
+   "path": "music/Power舞.wav",
+   "what": "舞曲 · Power舞 · 錠剤 · 9秒版",
+   "source": "TOOBOE《錠剤》",
+   "license": "商业歌曲",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-Reze舞.vrma",
+   "what": "舞蹈 · Reze舞 · IRIS OUT · 16秒版",
+   "source": "https://bowlroll.net/file/346475",
+   "license": "配布页和 readme 未写条款",
+   "approved": false
+  },
+  {
+   "path": "music/Reze舞.wav",
+   "what": "舞曲 · Reze舞 · IRIS OUT · 16秒版",
+   "source": "米津玄師《IRIS OUT》",
+   "license": "商业歌曲",
+   "approved": false
+  },
+  {
+   "path": "animations/dance-喵喵.vrma",
+   "what": "舞蹈 · 喵喵 · 25秒版",
+   "source": "https://bowlroll.net/file/342764",
+   "license": "配布页和 readme 未写条款",
+   "approved": false
+  },
+  {
+   "path": "music/喵喵.wav",
+   "what": "舞曲 · 喵喵 · 25秒版",
+   "source": "奏みみ《絶対王政♡みゃおみゃお》",
+   "license": "商业歌曲",
+   "approved": false
+  },
+  {
+   "path": "animations/preview-gokuraku.vrma",
+   "what": "舞蹈 · 极乐净土 · 21秒版",
+   "source": "https://bowlroll.net/file/343534",
+   "license": "配布页和 readme 未写条款",
+   "approved": false
+  },
+  {
+   "path": "music/极乐净土.wav",
+   "what": "舞曲 · 极乐净土 · 21秒版",
+   "source": "GARNiDELiA《極楽浄土》",
+   "license": "商业歌曲",
+   "approved": false
+  },
+  {
+   "path": "scenes/bedroom/items/README.md",
+   "what": "卧室道具",
+   "source": "",
+   "license": "",
+   "approved": false
+  },
+  {
+   "path": "scenes/bedroom/items/bear_big.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/bed.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/bunny.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/lamp.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/nightstand.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/plush_pile.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/shelf.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/sofa.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "scenes/bedroom/items/vanity.glb",
+   "what": "卧室道具",
+   "source": "为本项目用 Tripo 生成（11-17）",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "assets/manpu/anger.png",
+   "what": "漫符",
+   "source": "为本项目绘制",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "assets/manpu/sweat.png",
+   "what": "漫符",
+   "source": "为本项目绘制",
+   "license": "MIT（随本仓库）",
+   "approved": true
+  },
+  {
+   "path": "models/default.vrm",
+   "what": "默认角色",
+   "source": "不附带：作者自用角色",
+   "license": "",
+   "approved": false
+  }
+ ]
+}

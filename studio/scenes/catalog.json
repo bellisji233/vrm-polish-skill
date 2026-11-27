@@ -1,0 +1,4 @@
+[
+  {"id":"bedroom","name":"少女卧室","type":"procedural-room","catalog":"bedroom/catalog.json","light":"warm","camera":"full"},
+  {"id":"garden","name":"梦幻花园","scale":1,"position":[0,0,0],"rotationY":0,"anchors":{"stand":[0,0,0.7]},"light":"studio","camera":"full"}
+]

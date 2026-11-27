@@ -1,0 +1,34 @@
+{
+ "note": "offset: head-bone local metres (+x avatar left / screen right, +y up, +z front); size: width, height in metres",
+ "sweat": {
+  "file": "sweat.png",
+  "offset": [
+   -0.0977,
+   0.0716,
+   0.0849
+  ],
+  "size": [
+   0.0273,
+   0.0446
+  ]
+ },
+ "anger": {
+  "file": "anger.png",
+  "offset": [
+   0.0682,
+   0.1178,
+   0.0949
+  ],
+  "size": [
+   0.0495,
+   0.0506
+  ]
+ },
+ "ref_face": {
+  "cx": -0.00042,
+  "top": 0.24233,
+  "front": 0.14656,
+  "width": 0.27342,
+  "note": "face frame of the purple model these offsets were placed on (face skin part of the expression mesh, head-bone frame at rest); each model gets the offsets carried by its own face frame"
+ }
+}
