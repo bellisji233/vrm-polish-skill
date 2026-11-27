@@ -6,7 +6,7 @@ Expressions and head polishing depend on the head mesh itself: where facial feat
 
 ## Starter Head Profile
 
-New users can use `assets/head-profile/` directly: it contains only landmarks, head settings, and anime decals, without the first character's mesh, face texture, or hair texture, and without `head_rest.npy`. Any new head can enter the automatic identification workflow through it; identification rules remain limited to supported Tripo structures.
+New users can use `assets/head-profile/` directly: it contains only landmarks, head settings, and anime decals, without the first character's mesh, face texture, or hair texture, and without `head_rest.npy`. Any new head can enter the automatic identification workflow through it; supported structures are listed under "New Heads" below.
 
 ```sh
 zsh polish/pipeline/prepare.sh <project> assets/head-profile
@@ -96,7 +96,7 @@ Result: about 100 VRM expressions (standard expressions, ARKit 52, gaze, anime d
 
 **Limitations**:
 
-- Identification rules target Tripo-generated heads and support two structures: separate sclera, iris, and eyelash components, or features painted together. Heads matching neither structure fail at identification with a message naming the missing component.
+- Identification rules support two structures: separate sclera, iris, and eyelash components, or features painted together; so far they have been tested only on Tripo-generated heads. Heads matching neither structure fail at identification with a message naming the missing component.
 - When the face shape differs greatly from the profile, head settings are only approximate: aligned landmark errors are recorded in `measure.json`; errors exceeding a few millimeters require close inspection of the chin, mouth interior, and cheeks.
 - Hair on new heads is re-rooted with `hair.root: head_width`, with positions fitted from measurements. Decals prefer the project's `work/fx/fx.json`; otherwise they are transformed using landmarks. Their positions still need checking.
 - Profiles do not save `mouth_open` or `mouth_mood`, and `iris_layer` lacks full same-head profile round-trip support. Put persistent manual values in `work/build_overrides.json`; see [Configuration](configuration.md).

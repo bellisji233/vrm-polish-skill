@@ -80,7 +80,7 @@ references/               Charakuru integration, configuration, head profiles, h
 
 ## Known limitations
 
-- Detection rules for new heads were written for Tripo-generated heads; Character 2 has passed acceptance checks from scratch. Head settings are only approximate when the face shape differs greatly from the profile.
+- Detection rules for new heads have so far been tested only on Tripo-generated heads; Character 2 has passed acceptance checks from scratch. Head settings are only approximate when the face shape differs greatly from the profile.
 - Measurement rules were fitted to two outfits, the purple version (紫色版) and Lavender Denim (薰衣草牛仔); after the first run on a new body type, inspect close-ups of the neck, belt, and cuffs.
 - Enable clothing shape corrections (sleeve fitting, cuffs following hands, skirts following legs) according to the configuration instructions only after inspecting the model.
 - `work/weights/weighted.blend` must be copied out of the temporary directory for the Charakuru weight task (see step 7 in Charakuru integration).
